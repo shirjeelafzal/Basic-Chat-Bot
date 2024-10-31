@@ -70,7 +70,3 @@ Hello! How can I assist you today?
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-This README gives an overview of the project and instructions for usage, setup, and the general flow of the chatbot. Let me know if you want to customize any sections further!
