@@ -74,7 +74,7 @@ config = {"configurable": {"thread_id": "abc346"}}
 language = "English" 
 
 while True:
-    query = input("Ask: ")
+    query = input("\nAsk: ")
     input_messages = [HumanMessage(content=query)]
     for chunk, metadata in app.stream(
         {"messages": input_messages, "language": language},

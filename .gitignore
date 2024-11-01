@@ -2,3 +2,4 @@
 test.py
 SimpleLLMChain.py
 .env
+.vscode/
